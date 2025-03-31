@@ -33,7 +33,7 @@ This will create 14 figures associated with a fixed seed :
 
 ### Texture Analysis
 
-The script 'wtfbf_analysis.m' reproduces the quantitative results in the preprint 'Weighted tensorized fractional Brownian textures'.
+The file 'wtfbf_analysis.m' reproduces the quantitative results in the preprint 'Weighted tensorized fractional Brownian textures'. To obtain the same results as in the preprint, run the script.
 
 It generates 100 samples of WTFBF and computes the estimated mean, variance and skewness of the generated textures. 
 It compares it with the estimated mean, variance and skewness of the associated rectangular increments, to assess stationarity, and with the estimated mean, variance and skewness of the associated rescaled fields, to test auto-similarity.
@@ -41,4 +41,4 @@ It compares it with the estimated mean, variance and skewness of the associated 
 
 ## References
 
-- 'Weighted tensorized fractional Brownian textures', Céline Esser, Claire Launay, Laurent Loodsvelt, Béatrice Vedel, March 2025 (https://arxiv.org/pdf/2406.03313).
+- 'Weighted tensorized fractional Brownian textures', Céline Esser, Claire Launay, Laurent Loodsveldt, Béatrice Vedel, March 2025 (https://arxiv.org/pdf/2406.03313).
