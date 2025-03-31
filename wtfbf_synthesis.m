@@ -3,7 +3,7 @@
 % Authors: Claire Launay, Béatrice Vedel
 % Date: 02/2024 (Modified in 03/2025)
 % Associated with the preprint "Weighted tensorized fractional Brownian
-% textures", Céline Esser, Claire Launay, Laurent Loosvelt, Béatrice Vedel, March 2025
+% textures", Céline Esser, Claire Launay, Laurent Loosveldt, Béatrice Vedel, March 2025
 %
 
 close all

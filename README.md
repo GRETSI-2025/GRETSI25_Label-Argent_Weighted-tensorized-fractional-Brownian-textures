@@ -4,7 +4,7 @@
 
 This project provides matlab scripts for generating and analyzing weighted tensorised fractional brownian fields (WTFBF). 
 The texture synthesis file generates new textures based on the spectral representation method, while the analysis file offer various metrics to evaluate texture auto-similarity and rectangular increments stationarity. 
-These scripts reproduce the results given in the preprint 'Weighted tensorized fractional Brownian textures', Céline Esser, Claire Launay, Laurent Loodsvelt, Béatrice Vedel, March 2025.
+These scripts reproduce the results given in the preprint 'Weighted tensorized fractional Brownian textures', Céline Esser, Claire Launay, Laurent Loosveldt, Béatrice Vedel, March 2025.
 
 ## Files
 
@@ -41,4 +41,4 @@ It compares it with the estimated mean, variance and skewness of the associated 
 
 ## References
 
-- 'Weighted tensorized fractional Brownian textures', Céline Esser, Claire Launay, Laurent Loodsveldt, Béatrice Vedel, March 2025 (https://arxiv.org/pdf/2406.03313).
+- 'Weighted tensorized fractional Brownian textures', Céline Esser, Claire Launay, Laurent Loosveldt, Béatrice Vedel, March 2025 (https://arxiv.org/pdf/2406.03313).
