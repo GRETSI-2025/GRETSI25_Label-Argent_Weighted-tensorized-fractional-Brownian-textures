@@ -1,5 +1,15 @@
 # Weighted tensorised fractional Brownian textures - Synthesis and analysis
 
+<hr>
+
+**_Dépôt labelisé dans le cadre du [Label Reproductible du GRESTI'25](https://gretsi.fr/colloque2025/recherche-reproductible/)_**
+
+| Label décerné | Auteur | Rapporteur | Éléments reproduits | Liens |
+|:-------------:|:------:|:----------:|:-------------------:|:------|
+| ![](label_argent.png) | Claire LAUNAY<br>[@claunay](https://github.com/claunay) | Marc DONIAS<br>[@MarcDonias](https://github.com/MarcDonias) |  Figures 1 et 2<br>Table 1 | 📌&nbsp;[Dépôt&nbsp;original](https://github.com/claunay/wtfbf)<br>⚙️&nbsp;[Issue](https://github.com/GRETSI-2025/Label-Reproductible/issues/25)<br>📝&nbsp;[Rapport](https://github.com/akrah/test/tree/main/rapports/Rapport_issue_25) |
+
+<hr>
+
 ## Overview
 
 This project provides matlab scripts for generating and analyzing weighted tensorised fractional brownian fields (WTFBF). 
